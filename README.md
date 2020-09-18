@@ -30,7 +30,7 @@ cd ~/.config/polybar && git clone https://github.com/vuckale/dual-fan-speed-modu
 ```bash
 chmod +x fan_speed.sh
 ```
-2. Add module to config file:
+3. Add module to config file:
 
 ```ini
 [module/fan_speed]
@@ -46,4 +46,4 @@ Adjust `interval` to your liking and reference/point `exec` to `fan_speed.sh`. I
 exec = ~/.config/polybar/dual-fan-speed-module-polybar/fan_speed.sh
 ```
 
-3. Relaunch Polybar 
+4. Relaunch Polybar 
