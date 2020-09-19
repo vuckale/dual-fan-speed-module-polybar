@@ -1,4 +1,4 @@
-# Polybar module for displaying left and right fan speed
+# [Polybar](https://github.com/polybar/polybar) module for displaying left and right fan speed
 <p align="center">
   <img src="https://github.com/vuckale/dual-fan-speed-module-polybar/blob/master/screenshot1.png?raw=true" />
 </p>
